@@ -3,7 +3,7 @@ Zamiana BigDecimal na Stringa - na kwotę słownie po Polsku.
 
 
 
-public String inWords(BigDecimal valueToText) {
+     public String inWords(BigDecimal valueToText) {
 
         String[] unitsWords = {"", "jeden ", "dwa ", "trzy ", "cztery ", "pięć ",
             "sześć ", "siedem ", "osiem ", "dziewięć "};
